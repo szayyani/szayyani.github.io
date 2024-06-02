@@ -9,7 +9,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path : ./assets/img/2022-08-09.jpg
+  path : ./assets/img/2022-08-19.jpg
   alt : Old man walking
 ---
 # Here is the headign of this post
