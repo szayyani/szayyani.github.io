@@ -4,6 +4,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3.3"
 gem "jekyll-theme-chirpy", "~> 7.0", ">= 7.0.1"
 
+
 group :test do
   gem "html-proofer", "~> 5.0"
 end
@@ -13,6 +14,8 @@ group :jekyll_plugins do
   gem 'jekyll-default-layout'
   gem 'jekyll-spaceship'
   gem 'jekyll-tagging-related_posts'
+  gem 'jekyll-mermaid', '~> 1.0'
+  
 end
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
