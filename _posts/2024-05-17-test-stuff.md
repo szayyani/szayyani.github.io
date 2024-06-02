@@ -2,7 +2,8 @@
 layout: post
 title:  "Test stuff!"
 date:   2024-05-17 12:46:46 +0200
-categories: jekyll update testing markdown
+categories: blog
+tags: markdown jekyll 
 author : Loopy
 ---
 

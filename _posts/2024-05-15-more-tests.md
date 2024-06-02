@@ -2,7 +2,8 @@
 layout: post
 title:  "More tests!"
 date:   2024-05-15 12:46:46 +0200
-categories: jekyll update instructions
+categories: blog
+tags: jekyll instruction 
 author : Loopy
 ---
 # How to do things in order
