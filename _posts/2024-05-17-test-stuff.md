@@ -58,7 +58,7 @@ work --> home --> street -- car --> tree
 a bit of math now?
 $$ y = x + \frac{d^2x}{dt^2} = \frac{\partial^2 y}{\partial x}$$
 
-```abc!
+```abc
 ABabcCcC | Ddef^f_A | C[ce^gC]
 ```
 
