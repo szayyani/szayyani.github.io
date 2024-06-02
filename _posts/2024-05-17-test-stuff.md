@@ -8,8 +8,11 @@ author : Loopy
 pin: true
 math: true
 mermaid: true
+image:
+  path : ./assets/img/2022-08-09.jpg
+  alt : Old man walking
 ---
-
+# Here is the headign of this post
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
