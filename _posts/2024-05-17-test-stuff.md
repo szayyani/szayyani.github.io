@@ -3,7 +3,7 @@ layout: post
 title:  "Test stuff!"
 date:   2024-05-17 12:46:46 +0200
 categories: blog
-tags: markdown jekyll 
+tags: markdown jekyll
 author : Loopy
 ---
 
@@ -23,7 +23,7 @@ author : Loopy
 Let's do some python [^1]
 [^1]: Python is a programming language that is so cool.
 
-```python=5
+```python!
 print("hello world")
 def vitesse(x,v):
     ax + bx^2
@@ -33,36 +33,23 @@ def vitesse(x,v):
 ### small headign
 This is goign to be **quite** interesting *no?*
 
-:::info
+>Do this but dont that
+{: .prompt-tip }
 
-Do this but dont that
-:::
+>Do NOT do that.
+{: .prompt-warning }
 
-:::warning
-Do NOT do that.
-:::
+>You did that!!!
+{: .prompt-danger }
 
-:::danger
-You did that!!!
-:::
-
-:::success
-yay!
-:::
+>yay!
+{: .prompt-info }
 
 
-```mermaid!
+```mermaid
 graph LR
 work --> home --> street -- car --> tree
 ```
-
-```markmap!
-## here is the root
-- branch 1
-- branche 2
-### here is three things
-- stuff inside 3
-- stuff inside 4
 
 ## here is 4 things !
 ```
@@ -75,7 +62,7 @@ $$ y = x + \frac{d^2x}{dt^2} = \frac{\partial^2 y}{\partial x}$$
 ABabcCcC | Ddef^f_A | C[ce^gC]
 ```
 
-```mermaid!
+```mermaid
 pie showData
 
 "Energy" : 74
@@ -86,7 +73,7 @@ pie showData
 "Internet" : 4
 ```
 
-```mermaid!
+```mermaid
 timeline
     title the last two decades
     2005 : dance compeition : flying : arrival in France
@@ -95,21 +82,16 @@ timeline
     2012 : NDS
 ```
 
-```mermaid!
+```mermaid
 journey
     title me study housework
     but again not
 ```
 
-```mermaid!
-mindmap
-    root
 
-```
+Let's do a foonote. I wanna put it here. [^2]
 
-Let's do a foonote. I wanna put it here. [^footnote]
-
-[^footnote]: This is where the first footnote goes. i wonder if it's any good.
+[^2]: This is where the first footnote goes. i wonder if it's any good.
 
 2 <sup>55-33</sup>
 
