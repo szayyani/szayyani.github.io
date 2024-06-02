@@ -2,7 +2,7 @@
 layout: post
 title:  "Test stuff!"
 date:   2024-05-17 12:46:46 +0200
-categories: jekyll update
+categories: jekyll update testing markdown
 author : Loopy
 ---
 
@@ -13,32 +13,32 @@ author : Loopy
 | text 2   | blah | huh???|
 |bamm     | boom | biim |
 
-- [ ] do this 
+- [ ] do this
 - [ ] do that
 - [x] do teh toher hting?
 
 > and hten he said, wtf dude?
 
 Let's do some python [^1]
-[^1]: Python is a programming language that is so cool. 
+[^1]: Python is a programming language that is so cool.
 
 ```python=5
 print("hello world")
 def vitesse(x,v):
-    ax + bx^2 
+    ax + bx^2
     return vitesse
 ```
 
-### small headign 
+### small headign
 This is goign to be **quite** interesting *no?*
 
 :::info
 
-Do this but dont that 
+Do this but dont that
 :::
 
 :::warning
-Do NOT do that. 
+Do NOT do that.
 :::
 
 :::danger
@@ -56,7 +56,7 @@ work --> home --> street -- car --> tree
 ```
 
 ```markmap!
-## here is the root 
+## here is the root
 - branch 1
 - branche 2
 ### here is three things
@@ -67,7 +67,7 @@ work --> home --> street -- car --> tree
 ```
 
 
-a bit of math now? 
+a bit of math now?
 $$ y = x + \frac{d^2x}{dt^2} = \frac{\partial^2 y}{\partial x}$$
 
 ```abc!
@@ -86,8 +86,8 @@ pie showData
 ```
 
 ```mermaid!
-timeline 
-    title the last two decades 
+timeline
+    title the last two decades
     2005 : dance compeition : flying : arrival in France
     2006 : Capes : blam
     2007 : st michel : validation
@@ -97,25 +97,25 @@ timeline
 ```mermaid!
 journey
     title me study housework
-    but again not 
+    but again not
 ```
 
 ```mermaid!
 mindmap
-    root 
-    
+    root
+
 ```
 
 Let's do a foonote. I wanna put it here. [^footnote]
 
-[^footnote]: This is where the first footnote goes. i wonder if it's any good. 
+[^footnote]: This is where the first footnote goes. i wonder if it's any good.
 
 2 <sup>55-33</sup>
 
 
 
->[!Important] 
->Here is somethign importnat to remember 
+>[!Important]
+>Here is somethign importnat to remember
 
 >[!Tip]
 > Here is somethign about color
@@ -129,4 +129,3 @@ Let's do a foonote. I wanna put it here. [^footnote]
 
 [Back to top](#top)
 [:arrow_up:](#top)
-
