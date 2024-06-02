@@ -2,9 +2,15 @@
 layout: post
 title:  "More tests!"
 date:   2024-05-15 12:46:46 +0200
-categories: blog
-tags: jekyll instruction 
+categories: [blog]
+tags: [jekyll, instruction]
 author : Loopy
+pin: true
+math: true
+mermaid: true
+image:
+  path : ./assets/img/tilt-cuba3.jpg
+  alt : Miniature Havana Cafe
 ---
 # How to do things in order
 
