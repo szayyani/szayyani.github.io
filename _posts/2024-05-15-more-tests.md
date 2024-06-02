@@ -1,35 +1,42 @@
-# How to do things in order 
+---
+layout: post
+title:  "More tests!"
+date:   2024-05-15 12:46:46 +0200
+categories: jekyll update instructions
+author : Loopy
+---
+# How to do things in order
 
-## 1. Installation : 
+## 1. Installation :
 
 1. Ruby
     - install `sudo apt-get install ruby-full build-essential`
     - check version : `Ruby -v`
-2. Install Jekyll : run `gem install jekyll bundler` 
+2. Install Jekyll : run `gem install jekyll bundler`
 3. run `jekyll new blogname`
-4. go into the directory where you created teh site 
+4. go into the directory where you created teh site
 `cd blogname`
 2. ` bundle exec jekyll serve`
-and hten can just type `jekyll serve` after teh first time 
+and hten can just type `jekyll serve` after teh first time
 
-## 2. Inforamtion about the files in teh jekyll site foldres/stuff : 
+## 2. Inforamtion about the files in the jekyll site foldres/stuff :
 - the **_site folder_** : stuff related to the blog. this holds the finished final website (that you put on a web server). dotn modify too much in here, it gets modified by itself
 - the **_post folder_** : your markdown posts
-- the **_yaml config_** file : important values for the site 
-- the **_gem_** file : stores dependencies, for example the `theme`. 
+- the **_yaml config_** file : important values for the site
+- the **_gem_** file : stores dependencies, for example the `theme`.
 
-## 3. Front Matter : 
+## 3. Front Matter :
 
 ```yaml!
 layout : post
 title : "Post Title "
-date : 20240-04-04 15:34:30 -0200 
-categories : jekyll update (the category it gets updates, so changes teh folder it's saved in) 
+date : 20240-04-04 15:34:30 -0200
+categories : jekyll update (the category it gets updates, so changes teh folder it's saved in)
 ```
 can create own categories like `author`, etc
-some other elements : 
-- permalink : "/new-url" or permalink:/categories or 
-good idea to define a permalink for each post so that they dont break in case you change a date or somethign later on. 
+some other elements :
+- permalink : "/new-url" or permalink:/categories or
+good idea to define a permalink for each post so that they dont break in case you change a date or somethign later on.
 
 ```yaml
 layout: post
@@ -67,40 +74,37 @@ excerpt:	(Optional) The short text to show on the card of the list/grid of posts
       type: "posts"
     values:
       layout: "post"
-` 
+`
 
 :::info
-**Note that** : 
+**Note that** :
 
-- if you dont specify layout in a post/page, it'll go to THIS default. but if you type a default layout manually into a front matter it'll supercede the default. 
-- 
+- if you dont specify layout in a post/page, it'll go to THIS default. but if you type a default layout manually into a front matter it'll supercede the default.
+-
 :::    
 
-## 5.  Themes : 
+## 5.  Themes :
 
-1. (rubygems.org to get the theme name) 
+1. (rubygems.org to get the theme name)
 2.  go into the `Gemfile`
 3.  in teh `Gemfile` go to the `theme` section and below the deafult (minima) add : `gem "theme-name (wahtever the name is)"`
-4.  go into terminal : `bundle install` inorder to install all teh gems, including new one 
+4.  go into terminal : `bundle install` inorder to install all teh gems, including new one
 5. restart jekyll server `bundle exec jekyll serve`
-6. the new theme might not have teh same layout elements as before, which woudl break things. so have to check the new theme's "defaults" document/file. 
-    
-## 6. Hosting on GitHub : 
+6. the new theme might not have teh same layout elements as before, which woudl break things. so have to check the new theme's "defaults" document/file.
+
+## 6. Hosting on GitHub :
 1. create new repository, public and DONT `initialize with README`
 2. modification of `yaml` config file : `baseurl` which is the urlof the site/file so here on github pages it'd be `rep_name` otherwise the url of the page on custom domain name
-3. go into Git : 
+3. go into Git :
 ```bash!
 git checkout -b gh-pages #switches to github pages branch
 git add . #prepares all teh filres to be added to the repo
-git commit -m "initial commit " #commits this files to teh repo with teh title 
-git remote add origin https://github ... /blogname.git #to keep connected to the local 
+git commit -m "initial commit " #commits this files to teh repo with teh title
+git remote add origin https://github ... /blogname.git #to keep connected to the local
 git push origin gh-pages #to push to the GH repo
 
-#each time there is a change to commit 
+#each time there is a change to commit
 git commit -m "commit message"
 git push origin gh-pages
 ```
 the link for the blog then becomes `zloopy.github.io/blogname`
-
-
-

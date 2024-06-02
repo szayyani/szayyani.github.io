@@ -1,4 +1,10 @@
-<a name="top"></a>
+---
+layout: post
+title:  "Test stuff!"
+date:   2024-05-17 12:46:46 +0200
+categories: jekyll update
+author : Loopy
+---
 
 
 | Column 1 | Column 2 | Column 3 |
@@ -44,12 +50,12 @@ yay!
 :::
 
 
-```mermaid
+```mermaid!
 graph LR
 work --> home --> street -- car --> tree
 ```
 
-```markmap
+```markmap!
 ## here is the root 
 - branch 1
 - branche 2
@@ -64,11 +70,11 @@ work --> home --> street -- car --> tree
 a bit of math now? 
 $$ y = x + \frac{d^2x}{dt^2} = \frac{\partial^2 y}{\partial x}$$
 
-```abc
+```abc!
 ABabcCcC | Ddef^f_A | C[ce^gC]
 ```
 
-```mermaid
+```mermaid!
 pie showData
 
 "Energy" : 74
@@ -79,7 +85,7 @@ pie showData
 "Internet" : 4
 ```
 
-```mermaid
+```mermaid!
 timeline 
     title the last two decades 
     2005 : dance compeition : flying : arrival in France
@@ -88,13 +94,13 @@ timeline
     2012 : NDS
 ```
 
-```mermaid
+```mermaid!
 journey
     title me study housework
     but again not 
 ```
 
-```mermaid
+```mermaid!
 mindmap
     root 
     
