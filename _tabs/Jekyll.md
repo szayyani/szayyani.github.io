@@ -5,11 +5,10 @@ icon: fas fa-podcast
 category : blog
 order: 5
 ---
-<div class="page-content">
-  <header class="page-header">
-    <h1>{{ page.title }}</h1>
-    <h3> Welcome to Physics Bytes ! the english language podcast of the students of Notre-Dame de Sion here in Paris!  </h3>
-  </header>
+# {{ page.title }}
+
+#### Welcome to Physics Bytes ! the english language podcast of the students of Notre-Dame de Sion here in Paris!
+
   <div class="post-list">
     {% assign tech_posts = site.posts | where: "categories", "blog" %}
     {% for post in tech_posts %}
@@ -20,4 +19,3 @@ order: 5
       </article>
     {% endfor %}
   </div>
-</div>
