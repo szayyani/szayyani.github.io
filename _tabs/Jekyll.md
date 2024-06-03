@@ -1,4 +1,5 @@
 ---
-layout : page
-category : jekeyll
+layout : home
+category : jekyll
+order: 5
 ---
