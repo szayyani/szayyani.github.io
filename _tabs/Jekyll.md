@@ -1,6 +1,6 @@
 ---
 layout : post
 icon: fas fa-podcast
-categories : jekyll
+categories : blog
 order: 5
 ---
