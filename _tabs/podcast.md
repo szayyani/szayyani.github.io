@@ -1,5 +1,5 @@
 ---
-layout : dafault
+layout : default
 title : "Physics Bytes !"
 icon: fas fa-podcast
 category : blog
