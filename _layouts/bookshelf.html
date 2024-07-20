@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+<body>
+  <div class="container">
+    <h1>{{ page.title }}</h1>
+    <div class="current-books">
+      {% for book in page.books %}
+      <div class="current-book">
+        <div class="book-photo">
+          <img src="{{ book.image }}" alt="{{ book.title }}">
+        </div>
+        <div class="book-description">
+          <h2>{{ book.title }}</h2>
+          <p>{{ book.description }}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <h2>Previous Books</h2>
+    <div class="previous-books">
+      {% for year, books in site.data.previous_books %}
+      <h3>{{ year }}</h3>
+      <ul>
+        {% for book in books %}
+        <li>{{ book }}</li>
+        {% endfor %}
+      </ul>
+      {% endfor %}
+    </div>
+  </div>
+</body>
+</html>

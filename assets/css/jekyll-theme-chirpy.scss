@@ -1,0 +1,49 @@
+---
+---
+
+@import 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.current-books {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.current-book {
+  display: flex;
+  align-items: flex-start;
+}
+
+.book-photo {
+  flex: 0 0 30%;
+}
+
+.book-photo img {
+  width: 100%;
+  height: auto;
+}
+
+.book-description {
+  flex: 1;
+  padding-left: 2rem;
+}
+
+.previous-books ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.previous-books li {
+  margin-bottom: 0.5rem;
+}
