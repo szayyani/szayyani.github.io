@@ -1,0 +1,22 @@
+.styled-quote {
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 1em 0;
+    padding: 1em;
+    border-left: 3px solid #dfd9d9;
+    background-color: #47464657;
+    font-size: 2em;
+  }
+  
+  .styled-quote p {
+    margin: 0;
+  }
+  
+  .styled-quote cite {
+    font-style: normal;
+    display: block;
+    text-align: right;
+    font-size: 0.8em;
+    color: #999;
+  }
+

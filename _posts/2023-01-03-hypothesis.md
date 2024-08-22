@@ -1,7 +1,7 @@
 ---
 title: "Hypothesis & Fear in the classroom "
 date: 2022-12-13 15:00:00 -0200
-categories: [School]
+categories: [School Stories]
 tags: [school, students, fear, scientific method] 
 description: >-
   During a class test, i noticed my students were all leaving an early question wherein they were to make a hypothesis blank. 

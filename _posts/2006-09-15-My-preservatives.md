@@ -1,8 +1,8 @@
 ---
 title: "Tales from School : My '*preservatives*'"
 date: 2006-09-15 15:00:00 -0200
-categories: [school, story]
-tags: [funny, teacher life, physics]
+categories: [School Stories]
+tags: [funny, teacher life, physics, school, story]
 ---
 _Being a new teacher, means that each day is unpredictable and filled with adventures and mishaps.  Some are worth telling, in order to make you laugh and for example in the following case, make you laugh AND preventing you from making the same mistake.  And so we start this new series on Loopy's Manifold._
 
