@@ -1,7 +1,7 @@
 ---
 title: "Funniest thing i heard today"
 date: 2014-02-03 15:00:00 -0200
-categories: [life]
+categories: [Miscellany]
 tags: [funny, stories] 
 description: >-
    A conversation overheard today

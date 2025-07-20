@@ -1,7 +1,7 @@
 ---
 title: "At the Gates of the Underworld"
 date: 2017-07-23 15:00:00 -0200
-categories: [Essay]
+categories: [Essay, Life]
 tags: [essay, life, italy, ] 
 description: >-
    It was the penultimate day and we had just arrived at the Lago Averno, by a most tortuous and misguided of paths, dead tired and hungry, only to find the place utterly deserted.

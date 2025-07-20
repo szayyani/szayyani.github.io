@@ -1,7 +1,7 @@
 ---
 title: "TfS : Follow-up on 'Digital Generation my *#&!' "
 date: 2023-02-27 15:00:00 -0200
-categories: [School Stories]
+categories: [Life, School Stories]
 tags: [thoughts, digital generation, school, youth] 
 description: >-
    Once the frustration from my students inability to use computers had settled, a more detailed reflexion ensued ... 

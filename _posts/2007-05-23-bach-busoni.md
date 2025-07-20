@@ -2,6 +2,7 @@
 title: "Bach, Busoni and the joy of the Unexpected"
 date: 2007-05-23 22:00:00 -0200
 categories: [Reviews, Music]
+author : loopy
 tags: [music,review, concert, bach, emotions] 
 description: >-
    There are at times those moments in life which are as beautiful as they are rare, when you are truly *moved* by something.

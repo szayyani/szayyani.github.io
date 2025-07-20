@@ -3,6 +3,7 @@ layout: post
 title: "Posting to Jekyll : Workflow"
 date: 2024-06-13 12:46:46 +0200
 categories: [blogging]
+author : loopy
 tags: [jekyll, instruction, workflow]
 ---
 

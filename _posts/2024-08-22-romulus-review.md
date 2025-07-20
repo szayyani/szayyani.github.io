@@ -3,6 +3,7 @@ title: "Film Review - Alien : Romulus"
 date: 2024-08-18 15:00:00 -0200
 categories: [Reviews, Cinema]
 tags: [review, geek, alien, star wars, movies] 
+author : loopy
 description: >-
    Went and saw the new *Alien : Romulus* movie. Mixed variations of ambivalence ensued ... 
 image: 

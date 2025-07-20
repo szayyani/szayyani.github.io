@@ -1,7 +1,7 @@
 ---
 title: "TfS : Digital Generation my *#&!"
 date: 2023-02-23 15:00:00 -0200
-categories: [School Stories]
+categories: [Life, School Stories]
 tags: [school, students, funny] 
 description: >-
    The frustration was evident on his face as he declared "Sir ... the sun buttons isnt working!" ... stuff ensued. 

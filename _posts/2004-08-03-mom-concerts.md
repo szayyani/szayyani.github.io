@@ -1,7 +1,8 @@
 ---
 title: "My mom goes to heavy metal concerts"
 date: 2004-08-03 15:00:00 -0200
-categories: life stories
+categories: [Life]
+author : loopy
 tags: [mom, music, funny, story]
 description: >-
   I am now proud to announce, that my mother is the coolest woman over the age of 50 in Toronto.
