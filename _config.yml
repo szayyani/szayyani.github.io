@@ -61,7 +61,7 @@ analytics:
   google:
     id: # fill in your Google Analytics ID
   goatcounter:
-    id:  # fill in your GoatCounter ID
+    id: zloopy # fill in your GoatCounter ID
   umami:
     id: 8141b116-c5b3-4094-bbca-fa32f7f18864 # fill in your Umami ID
     domain: szayyani.github.io # fill in your Umami domain
@@ -73,7 +73,7 @@ analytics:
 
 # Pageviews settings
 pageviews:
-  provider: 'goatcounter' # now only supports 'goatcounter'
+  provider: goatcounter # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
