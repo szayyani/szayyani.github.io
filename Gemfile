@@ -13,6 +13,7 @@ group :jekyll_plugins do
   gem 'jekyll-default-layout'
   gem 'jekyll-spaceship'
   gem 'jekyll-tagging-related_posts'
+  gem 'jekyll-admin'
 end
 
 
