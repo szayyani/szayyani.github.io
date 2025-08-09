@@ -63,7 +63,7 @@ analytics:
   goatcounter:
     id: zloopy # fill in your GoatCounter ID
   umami:
-    id: 8141b116-c5b3-4094-bbca-fa32f7f18864 # fill in your Umami ID
+    id: c4e24447-3707-4a4c-afbb-311935724358 # fill in your Umami ID
     domain: szayyani.github.io # fill in your Umami domain
   matomo:
     id: # fill in your Matomo ID
