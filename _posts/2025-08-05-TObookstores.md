@@ -53,6 +53,7 @@ And so i set about going to my old haunts (c.f.  next section for a nostalgic bu
 
 So I could understand if finding *His master's voice*, specifically, was difficult; it's certainly not *Solaris* or *The Cyberiad*, which are more well known in popular culture, but still ... ! What was indeed the true surprise, was that there was *nothing* by *Lem* ... anywhere. I must have visited at least 7 used bookshops in Toronto this summer and *not a single title by Lem was to be found in-store anywhere*! And then I had to ask, and i got the same answer
 
+> citation "bookseller at *Seekers*" [ cite = "bookseller"]
 > Not only you will have a *very hard* time finding used books by *Lem* on the market, when you do find it, it's gone within 48 hours, and for 4 to 5 times the price of a similar book, even in a less-than-great state. 
 
 This was all the more surprising given that i had built up my collection over time back in the day, because i was able to easily find them in second-hand bookstores. When i spoke the fellow at *Seekers* he told me that it's been like this for the past few years now; no doubt a combination of very few of his books being in print anymore, and it becoming a sort of a niche bit of reading amongst those still frequenting used book stores. 
